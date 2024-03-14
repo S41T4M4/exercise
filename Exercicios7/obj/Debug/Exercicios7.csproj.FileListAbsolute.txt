@@ -1,0 +1,8 @@
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\bin\Debug\Exercicios7.exe.config
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\bin\Debug\Exercicios7.exe
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\bin\Debug\Exercicios7.pdb
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\obj\Debug\Exercicios7.csproj.AssemblyReference.cache
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\obj\Debug\Exercicios7.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\obj\Debug\Exercicios7.csproj.CoreCompileInputs.cache
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\obj\Debug\Exercicios7.exe
+C:\Users\vitor.reis\NomeDoDiretorio2\Application\Exercicios7\Exercicios7\obj\Debug\Exercicios7.pdb
